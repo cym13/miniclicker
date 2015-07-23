@@ -9,9 +9,10 @@ Documentation
 =============
 
 ::
+
     Usage: ./miniclicker NUM [DEL]
     Clicks where the pointer is at script launch
-
+     
     Args:
         NUM   Number of clicks, infinite if 0
         DEL   Delay between clicks (mlls)
